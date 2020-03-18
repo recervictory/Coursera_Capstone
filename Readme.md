@@ -42,3 +42,21 @@ To resolve the business problem following datasets are needed to extract/ genera
 - FourSquare Api is used to generate neighborhood datasets
 - Zomato Api is used to generate restaurants details datasets
 - Zomato Api is used for generating Customers reviews datasets
+- Kolkata Geojson File downloaded from GitHub Repo
+
+~~~
+#Python Library Used
+from bs4 import BeautifulSoup #Web Scrapping
+import numpy as np
+from tabulate import tabulate
+import json #library for Json file
+from geopy.geocoders import Nominatim # Convert an address into latitude and longitude values
+import folium # Map rendering library
+~~~
+
+## Methodology <a name="methodology"></a>
+- I have used **BeautifulSoup** Kolkata's pincodes Coordinates scrap data from Google search page.
+- There are no python codes available for extracting Zomato restaurants details, for I have created a **Object class for python to request Zomato Api**. 
+- Data cleaning and EDA is done using Python Pandas and Numpy Library
+- Folium Map used for displaying spatial location of the restaurants.
+- NLP used for Review sentiment analysis
