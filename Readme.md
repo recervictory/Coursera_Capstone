@@ -1,7 +1,7 @@
 <img src="https://i.ibb.co/NjSZDm5/kolkata-skyline-in-watercolor-background-pablo-romero.jpg" alt="kolkata"
 	title="Kolkata" width = 1000/>
 
-# Capstone Project - Kolkata - (The City of Joy) Restaurant Business Analysis (Week 5)
+# Capstone Project - Kolkata - (The City of Joy) Restaurant Business Analysis
 ### Applied Data Science Capstone by IBM/Coursera
 ### By Victor Banerjee
 
