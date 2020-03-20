@@ -147,3 +147,6 @@ The Final results I provide customer a table of Location and Top 10 Service  and
 The final figure show the rating and Location wise using scatter plot:
 <img src="https://i.ibb.co/LJx3knw/8.png"  alt="kolkata"
 	title="Kolkata" width = 1000/>
+
+## Conclusion <a name="conclusion"></a>
+Stakeholder happy to open a new restaurants in Ballygunge. They have chose to use top 10 service list from the above table. They also chose cusines from the table for the better services.
